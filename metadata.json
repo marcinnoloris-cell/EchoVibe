@@ -1,0 +1,7 @@
+{
+  "name": "EchoVibe",
+  "description": "AI-powered travel planning that transforms your emotional state into personalized, regenerative itineraries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
